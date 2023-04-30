@@ -1,5 +1,5 @@
 //por Alice Aquino, 30/04/2023
-//atividade de Estrtura de Dados envolvendo o conteúdo de ordenação
+//atividade de Estrutura de Dados envolvendo o conteúdo de ordenação
 
 #include <stdio.h>
 #include <stdlib.h>
